@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+    /* height: 100%; */
+    width: 100%;
+}
+.section {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    max-width: 300px;
+}
+.section img {
+    width: 100px;
+    height: auto;
+}
+.section h2 {
+    color: #003366;
+}
+.section p {
+    color: #666;
+}
+
+.info-box{
+    height: 34vh
+}
